@@ -1,8 +1,0 @@
-{
-  "parent": "spring_to_life:block/cross_emissive",
-  "textures": {
-    "cross": "spring_to_life:block/firefly_bush",
-    "cross_emissive": "spring_to_life:block/firefly_bush_emissive"
-  },
-  "render_type": "cutout"
-}
